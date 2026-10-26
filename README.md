@@ -20,6 +20,8 @@ environment variable, `DATABASE_URL`, so no password sits in the code.
 [Uppcoder](https://portal.uppcoder.com/developers?utm_source=github&utm_medium=repo&utm_campaign=fastapi-starter)
 runs it on its own HTTPS address with a real PostgreSQL database and VS Code in
 the browser beside it.
+The free plan (Spark) has no card and no time limit, and the app and its database
+are backed up every night to a separate server.
 
 Press the button above: it opens Uppcoder's deploy page with this starter and PostgreSQL filled in. New to Uppcoder? Sign up there, confirm your email, and start the free plan (Spark) in one click on the same page. Or set it up by hand:
 
