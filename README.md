@@ -29,7 +29,7 @@ Press the button above: it opens Uppcoder's deploy page with this starter and Po
 2. Stacks, Create, Blank stack. Pick **FastAPI**, then add **PostgreSQL**: it is
    connected to the app automatically.
 3. On the FastAPI card, under Git repository, paste
-   `https://github.com/websson/fastapi-postgresql-starter` (branch `main`).
+   `https://github.com/Uppcoder/fastapi-postgresql-starter` (branch `main`).
 4. Deploy. Uppcoder clones the repository, sets `DATABASE_URL` and installs the
    PostgreSQL driver. Open the app's address and `/health` shows the database.
 
