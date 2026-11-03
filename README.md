@@ -1,6 +1,7 @@
 # FastAPI + PostgreSQL starter
 
 [![Deploy to Uppcoder](deploy-to-uppcoder.svg)](https://portal.uppcoder.com/cust-portal/deploy?starter=fastapi-postgresql-starter&utm_source=github&utm_medium=repo&utm_campaign=fastapi-starter)
+[![Uppcoder on DevHunt](https://devhunt.org/badge/uppcoder.svg)](https://devhunt.org/tool/uppcoder)
 
 A small FastAPI app on PostgreSQL, ready to deploy: a notes API with create,
 list and delete, and its table created on startup. The database comes from one
